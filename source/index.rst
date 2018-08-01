@@ -7,9 +7,8 @@ Welcome to LittleQuteSweetie's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 
-   how_to_be_a_rich_man
-   how_to_be_a_rich_woman
+   how_to_be_rich
