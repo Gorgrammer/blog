@@ -12,3 +12,4 @@ Welcome to LittleQuteSweetie's documentation!
 
 
    how_to_be_a_rich_man
+   how_to_be_a_rich_woman
